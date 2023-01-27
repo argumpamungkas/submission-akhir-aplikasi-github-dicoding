@@ -14,3 +14,5 @@ Dependencies :
 - [SharedPreferences](https://developer.android.com/training/data-storage/shared-preferences?hl=id)
 - [Room Database](https://developer.android.com/reference/android/arch/persistence/room/RoomDatabase)
 - [Glide](https://github.com/bumptech/glide)
+- [ViewBinding](https://developer.android.com/topic/libraries/view-binding?hl=id)
+- [ViewPager2](https://developer.android.com/jetpack/androidx/releases/viewpager2?hl=id)
